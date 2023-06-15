@@ -1,0 +1,10 @@
+*{
+    margin:5px;
+    padding:10px;;
+    font-family:sans-serif;
+}
+p{
+    font-size: 25px;
+    line-height: 40px;
+    font-style: bold;
+}
